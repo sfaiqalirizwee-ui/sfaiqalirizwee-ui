@@ -1,33 +1,542 @@
-# 💫 About Me:
-👋 Hi, I'm Syed Faiq Ali Rizvi<br><br>💻 Frontend Developer passionate about building modern and responsive web applications.<br><br>🌱 Currently learning Full Stack Development with Node.js, Express.js, MongoDB, Next.js, and Mobile App Development.<br><br>⚛️ Experienced with React, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, and Supabase.<br><br>🚀 I enjoy creating clean, user-friendly, and responsive websites while continuously improving my development skills.<br><br>🎯 My goal is to become a professional Full Stack & Mobile App Developer and contribute to real-world projects.
+````md
+<!-- ===================================================== -->
+<!--            PREMIUM GITHUB PROFILE README              -->
+<!-- ===================================================== -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/syed faiq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syedfaiq122 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sfaiqali) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@syedfaiq272) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@syed faiq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sfaiqalirizwee@gmail.com) 
+# 👋 Hi, I'm **Syed Faiq Ali Rizvi**
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sfaiqalirizwee-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sfaiqalirizwee-ui&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sfaiqalirizwee-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Frontend+Developer;React+Developer;Learning+Full+Stack+Development;Learning+Mobile+App+Development;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+
+### 💻 Frontend Developer • 🌐 Full Stack Learner • 📱 Mobile App Learner
+
+<img src="https://komarev.com/ghpvc/?username=sfaiqalirizwee-ui&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sfaiqalirizwee-ui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+# 🚀 About Me
 
-<!--
-**sfaiqalirizwee-ui/sfaiqalirizwee-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-Here are some ideas to get you started:
+### 👨‍💻 Who Am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Frontend Developer from Pakistan
+- ⚛️ Passionate about React & Modern UI Development
+- 🌱 Currently learning **Node.js, Express.js, MongoDB & Next.js**
+- 📱 Exploring **Mobile App Development**
+- 🎯 Goal: Become a Professional Full Stack & Mobile App Developer
+- 🚀 Love building responsive, fast and modern websites
+- 📚 Always learning new technologies
+- 🤝 Open to Internship & Freelance Opportunities
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sfaiqalirizwee-ui">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://linkedin.com/in/sfaiqali">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="mailto:sfaiqalirizwee@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://syed-faiq-ali.netlify.app/">
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+</a>
+
+</p>
+
+---
+
+# 💎 Developer Profile
+
+```javascript
+const syedFaiq = {
+  title: "Frontend Developer",
+
+  learning: [
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "React Native"
+  ],
+
+  frontend: [
+    "React",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Material UI"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js"
+  ],
+
+  database: [
+    "MongoDB",
+    "Supabase"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Postman",
+    "Vite",
+    "Netlify",
+    "Vercel"
+  ],
+
+  currentGoal:
+    "Become a Professional Full Stack & Mobile App Developer 🚀"
+};
+```
+
+---
+
+# 🛠 Tech Stack
+
+## 🎨 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=vite" />
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=supabase" />
+
+</p>
+
+---
+
+## 📱 Mobile
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+</p>
+
+---
+
+## 🔧 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=netlify" />
+<img src="https://skillicons.dev/icons?i=vercel" />
+<img src="https://skillicons.dev/icons?i=npm" />
+
+</p>
+
+````md
+<!-- ===================================================== -->
+<!--                GITHUB ANALYTICS                       -->
+<!-- ===================================================== -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sfaiqalirizwee-ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sfaiqalirizwee-ui&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfaiqalirizwee-ui&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sfaiqalirizwee-ui&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sfaiqalirizwee-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# ⚡ Coding Activity
+
+<div align="center">
+
+| Stats | Details |
+|:------:|:--------:|
+| 🚀 Projects | Building Full Stack Applications |
+| 🌱 Learning | Node.js • Express.js • MongoDB • Next.js |
+| 💻 Frontend | React • JavaScript • Tailwind CSS |
+| 📱 Mobile | React Native (Learning) |
+| 🎯 Goal | Full Stack & Mobile App Developer |
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+✅ Master React Ecosystem
+✅ Learn Next.js
+✅ Learn Express.js
+✅ Learn MongoDB
+✅ Build MERN Stack Projects
+✅ Learn React Native
+✅ Improve Problem Solving
+✅ Contribute to Open Source
+```
+
+---
+
+# 🌟 Developer Journey
+
+```text
+HTML/CSS        ████████████████████ 100%
+
+JavaScript      ██████████████████░░ 90%
+
+React           █████████████████░░░ 85%
+
+Tailwind CSS    ██████████████████░░ 90%
+
+Bootstrap       ███████████████████░ 95%
+
+Next.js         ███████░░░░░░░░░░░░░ 35%
+
+Node.js         ██████░░░░░░░░░░░░░░ 30%
+
+Express.js      █████░░░░░░░░░░░░░░░ 25%
+
+MongoDB         █████░░░░░░░░░░░░░░░ 25%
+
+React Native    ███░░░░░░░░░░░░░░░░░ 15%
+```
+
+---
+
+# 💼 Open For
+
+<div align="center">
+
+✅ Frontend Development
+
+✅ React Projects
+
+✅ MERN Stack Projects
+
+✅ Internship Opportunities
+
+✅ Freelance Projects
+
+</div>
+
+````md
+<!-- ===================================================== -->
+<!--                FEATURED PROJECTS                      -->
+<!-- ===================================================== -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Live Demo |
+|----------|------------|-----------|
+| 🌐 Portfolio Website | React • Vite • Tailwind CSS | 🔗 https://syed-faiq-ali.netlify.app/ |
+| 💬 Full Stack Chat App | React • Node.js • Express • MongoDB • Supabase | 🚧 In Progress |
+| 🛒 E-Commerce Website | React • Node.js • MongoDB | 🚧 Coming Soon |
+| 🍽️ Restaurant Admin Panel | React • Supabase | 🚧 Coming Soon |
+| 📱 Mobile App Projects | React Native | 🚧 Learning |
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+<div align="center">
+
+🥇 Frontend Development
+
+⚛️ React Developer
+
+🌱 MERN Stack Learner
+
+📱 Mobile App Development Learner
+
+🚀 Open Source Enthusiast
+
+💼 Available for Internship & Freelancing
+
+</div>
+
+---
+
+# 💡 Daily Motivation
+
+<div align="center">
+
+> **"Success doesn't come from what you know. It comes from what you build." 🚀**
+
+</div>
+
+---
+
+# 📅 2026 Goals
+
+- ✅ Master React
+- ✅ Learn Next.js
+- ✅ Learn Node.js
+- ✅ Learn Express.js
+- ✅ Learn MongoDB
+- ✅ Build 20+ Professional Projects
+- ✅ Learn React Native
+- ✅ Get Internship
+- ✅ Start Freelancing
+- ✅ Become Full Stack Developer
+
+---
+
+# 🌍 Portfolio
+
+<div align="center">
+
+### 🔗 https://syed-faiq-ali.netlify.app/
+
+</div>
+
+---
+
+# 📬 Contact
+
+<div align="center">
+
+📧 **Email**
+
+**sfaiqalirizwee@gmail.com**
+
+🐙 **GitHub**
+
+https://github.com/sfaiqalirizwee-ui
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/sfaiqali
+
+</div>
+
+---
+
+# 💙 Support
+
+If you like my work,
+
+⭐ Star my repositories
+
+🍴 Fork my projects
+
+🤝 Follow my GitHub Profile
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+> **⚠️ Note:** Yeh image tab tak nahi chalegi jab tak tum GitHub Action setup nahi karte.
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: Platane/snk@v3
+
+        with:
+          github_user_name: sfaiqalirizwee-ui
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+
+        with:
+          target_branch: output
+          build_dir: dist
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Aur README ke end mein ye image lagana:
+
+```md
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sfaiqalirizwee-ui/sfaiqalirizwee-ui/output/github-contribution-grid-snake.svg"/>
+
+</p>
+```
+
+---
+
+<div align="center">
+
+# ⭐ Thanks For Visiting My Profile ⭐
+
+### 💻 Keep Learning • Keep Building • Never Stop 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+</div>
+````md
+<!-- ===================================================== -->
+<!--                  PREMIUM BADGES                       -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+## 🚀 Building the Future, One Line of Code at a Time
+
+<img src="https://img.shields.io/badge/Frontend-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN-Stack-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20To-Internship-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Freelance-blue?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌟 What I Build
+
+```text
+🌐 Responsive Websites
+⚛️ React Applications
+🛒 E-Commerce Websites
+📊 Admin Dashboards
+💬 Full Stack Web Apps
+📱 Mobile Apps (Learning)
+```
+
+---
+
+# 🛠 Current Learning Roadmap
+
+```text
+✅ HTML
+✅ CSS
+✅ JavaScript
+✅ React
+✅ Tailwind CSS
+✅ Bootstrap
+✅ Git & GitHub
+
+🔄 Next.js
+🔄 Node.js
+🔄 Express.js
+🔄 MongoDB
+
+⏳ React Native
+⏳ TypeScript
+```
+
+---
+
+# 🎯 2026 Mission
+
+🚀 Build high-quality web applications
+
+📱 Learn mobile app development
+
+🌍 Contribute to open source
+
+💼 Secure a frontend/full-stack internship
+
+⭐ Build a strong developer portfolio
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+If you like my work, consider ⭐ starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4facfe,100:00f2fe&section=footer"/>
+
+</div>
+
+
+````
+
